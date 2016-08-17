@@ -1,3 +1,4 @@
+package local.main;
 
 public class Main {
 

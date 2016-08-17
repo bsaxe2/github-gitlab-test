@@ -7,6 +7,7 @@ public class Main {
 	System.out.println("release 0.2");
 	System.out.println("new feature 0.2");
 	System.out.println("fixed a small bug in feature 0.2");
+	System.out.println("feature 0.3 1");
     }
 
 }

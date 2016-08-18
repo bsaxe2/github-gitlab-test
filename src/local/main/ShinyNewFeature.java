@@ -5,6 +5,11 @@ public class ShinyNewFeature
 {
     public void useNewFeature()
     {
-        System.out.println("this is the new shiny new feature");
+        printMessage("this is the new shiny feature");
+    }
+    
+    public void printMessage(String msg)
+    {
+	System.out.println(msg);
     }
 }

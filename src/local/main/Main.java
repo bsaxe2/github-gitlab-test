@@ -11,6 +11,9 @@ public class Main {
 	System.out.println("feature 0.3 3");
 	System.out.println("feature 0.3 1");
 	System.out.println("clean up for release 0.3");
+	
+	ShinyNewFeature snf = new ShinyNewFeature();
+	snf.useNewFeature();
     }
 
 }
